@@ -1,1 +1,1 @@
-aws ec2 run-instances --image-id ami-xxxxxxxx --count 1 --instance-type t2.micro --key-name MyKeyPair --security-group-ids sg-903004f8 --subnet-id subnet-6e7f829e
+aws ec2 run-instances --image-id ami-0f34c5ae932e6f0e4 --count 1 --instance-type t2.micro --key-name Server_kp --security-group-ids sg-0136d83bacc4f850f --subnet-id subnet-05402e9cd08c39b02
