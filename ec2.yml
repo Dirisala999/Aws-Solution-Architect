@@ -4,9 +4,9 @@ Resources:
     Properties: 
       ImageId: "ami-0f34c5ae932e6f0e4"
       KeyName: "Server_kp"
-      SubnetId: "subnet-05402e9cd08c39b02"
+      SubnetId: "subnet-05402e9cd08c39b02" 
       IntanceType: "t2.micro"
       SecurityGroupIds:
-      -sg-0136d83bacc4f850f
+      - sg-0136d83bacc4f850f
       
  
